@@ -1,1 +1,2 @@
 # Nextflix_using_SQL
+I used SQL Server to manipulate and analyze my viewing history on Netflix. I exported my data from my Netflix account and had an Excel file that contained two columns, one for Title and the second for Viewing Dates. I added a primary key to the dataset and imported the data into a database I created in SQL Server. From there I began to build out the dataset to include columns for Season, Episode Name, Category (movie/show), and Genre. After I cleaned and prepared the data, I explored my viewing history using different aggregate functions.
